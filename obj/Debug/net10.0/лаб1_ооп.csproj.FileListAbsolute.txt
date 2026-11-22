@@ -1,0 +1,14 @@
+C:\dz\лаб1_ооп\bin\Debug\net10.0\лаб1_ооп.exe
+C:\dz\лаб1_ооп\bin\Debug\net10.0\лаб1_ооп.deps.json
+C:\dz\лаб1_ооп\bin\Debug\net10.0\лаб1_ооп.runtimeconfig.json
+C:\dz\лаб1_ооп\bin\Debug\net10.0\лаб1_ооп.dll
+C:\dz\лаб1_ооп\bin\Debug\net10.0\лаб1_ооп.pdb
+C:\dz\лаб1_ооп\obj\Debug\net10.0\лаб1_ооп.GeneratedMSBuildEditorConfig.editorconfig
+C:\dz\лаб1_ооп\obj\Debug\net10.0\лаб1_ооп.AssemblyInfoInputs.cache
+C:\dz\лаб1_ооп\obj\Debug\net10.0\лаб1_ооп.AssemblyInfo.cs
+C:\dz\лаб1_ооп\obj\Debug\net10.0\лаб1_ооп.csproj.CoreCompileInputs.cache
+C:\dz\лаб1_ооп\obj\Debug\net10.0\лаб1_ооп.dll
+C:\dz\лаб1_ооп\obj\Debug\net10.0\refint\лаб1_ооп.dll
+C:\dz\лаб1_ооп\obj\Debug\net10.0\лаб1_ооп.pdb
+C:\dz\лаб1_ооп\obj\Debug\net10.0\лаб1_ооп.genruntimeconfig.cache
+C:\dz\лаб1_ооп\obj\Debug\net10.0\ref\лаб1_ооп.dll
